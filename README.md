@@ -6,7 +6,7 @@
 ## Informations
 
 - 🌱 I’m currently learning Flutter and JavaScript
-- 📫 How to reach me:joaovictoroliveirapereira6522@gmail.com
+- 📫 How to reach me: joaovictoroliveirapereira6522@gmail.com
 
 ## Contacts
 
