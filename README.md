@@ -15,9 +15,6 @@
 [![gitlab](https://img.shields.io/badge/gitlab-orange?style=for-the-badge&logo=gitlab)](https://gitlab.com/joaoquinto)
 
 ![joaoquinto Status](https://github-readme-stats.vercel.app/api?username=joaoquinto&show_icons=true)
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoquinto&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **joaoquinto/joaoquinto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
