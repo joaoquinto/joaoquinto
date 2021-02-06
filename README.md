@@ -5,7 +5,7 @@
 
 ## Informations
 
-- 🌱 I’m currently learning Flutter, Web Design and JavaScript
+- 🌱 I’m currently learning Web Design
 - 📫 How to reach me: joaovictoroliveirapereira6522@gmail.com
 
 ## Contacts
