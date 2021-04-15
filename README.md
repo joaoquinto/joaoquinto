@@ -5,7 +5,7 @@
 
 ## Informations
 
-- 🌱 I’m currently learning Web Design
+- 🌱 I’m currently learning Web development
 - 📫 How to reach me: joaovictoroliveirapereira6522@gmail.com
 
 ## Contacts
